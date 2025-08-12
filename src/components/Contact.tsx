@@ -204,7 +204,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-blue-900 mb-1">公司地址</h4>
-                    <p className="text-gray-600">陕西省西安市高新区科技路西段259号</p>
+                    <p className="text-gray-600">陕西省西安市高新区唐延南路11号逸翠园i都会3号楼10339号</p>
                   </div>
                 </div>
                 
