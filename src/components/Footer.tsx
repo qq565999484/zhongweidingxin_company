@@ -8,7 +8,11 @@ export default function Footer() {
           {/* Company Info */}
           <div>
             <h3 className="text-xl font-bold mb-4 flex items-center">
-              <i className="fa-solid fa-certificate text-blue-300 mr-2"></i>
+              <img 
+                src="https://lf-code-agent.coze.cn/obj/x-ai-cn/269511742210/attachment/微信图片_20250812171019_45_20250812171223.png" 
+                alt="中威鼎信logo" 
+                className="h-8 w-auto mr-2"
+              />
              陕西中威鼎信企业管理咨询有限公司
             </h3>
             <p className="text-blue-200 mb-6">

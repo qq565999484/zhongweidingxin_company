@@ -24,11 +24,13 @@ export default function Header() {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between">
           {/* Company Logo/Name */}
-          <a href="/" className="flex items-center space-x-2">
-            <div className="bg-blue-700 text-white p-2 rounded-lg">
-              <i className="fa-solid fa-certificate text-xl"></i>
-            </div>
-            <span className="text-xl font-bold text-blue-900">
+           <a href="/" className="flex items-center space-x-3">
+            <img 
+              src="https://lf-code-agent.coze.cn/obj/x-ai-cn/269511742210/attachment/微信图片_20250812171019_45_20250812171223.png" 
+              alt="中威鼎信logo" 
+              className="h-12 w-auto"
+            />
+            <span className="text-xl font-bold text-blue-900 hidden md:inline">
               陕西中威鼎信企业咨询管理有限公司
             </span>
           </a>
